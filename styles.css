@@ -205,7 +205,7 @@ span{
 
   }
 
-  button .popup::after{
+  .button .popup::after{
     display: none;
   }
 
